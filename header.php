@@ -1,6 +1,3 @@
-<?php
-// header.php - This file is included at the top of every page.
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -37,6 +34,7 @@
         <a href="/Tusker/view_projects.php">View Projects</a>
         <a href="/Tusker/create_project.php">Create Project</a>
         <a href="/Tusker/upload_task.php">Upload Task</a>
+        <a href="/Tusker/view_tasks.php">View All Tasks</a> <!-- New Link to View Tasks -->
     </nav>
     <div class="container">
     <!-- Container ends at the footer.php -->

@@ -1,9 +1,10 @@
 /* General Body Styling */
 body {
-  background-color: #121212;
+  background-color: #0a0a0a;
   color: #e0e0e0;
   font-family: 'Segoe UI', sans-serif;
-  padding: 20px;
+  margin: 0;
+  padding: 0;
 }
 
 /* Heading */
@@ -86,15 +87,6 @@ form button {
 
 form button:hover {
   background-color: #21c48c;
-}
-
-/* Body Background */
-body {
-  background-color: #0a0a0a;
-  color: #e0e0e0;
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
 }
 
 /* Navigation Bar */
@@ -187,4 +179,7 @@ footer {
   padding: 20px;
   text-align: center;
   color: #e0e0e0;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
 }
